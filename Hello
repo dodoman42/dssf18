@@ -1,6 +1,7 @@
 <html>
   <head>
     <title> HELLO WORLD </title>
+    <link rel="stylesheet" href="Style.css">
   </head>
   <body>
     <h1> HELLO </h1>
